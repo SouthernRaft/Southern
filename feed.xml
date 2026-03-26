@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Valaxy Theme Yun</title>
+        <link>https://SouthernRaft.github.io/Southern/</link>
+        <description>Valaxy Theme Yun Preview.</description>
+        <lastBuildDate>Thu, 26 Mar 2026 12:41:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Valaxy Theme Yun</title>
+            <url>https://valaxy.site/valaxy-logo.png</url>
+            <link>https://SouthernRaft.github.io/Southern/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © 云游君</copyright>
+        <atom:link href="https://SouthernRaft.github.io/Southern/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[我的第一篇文章]]></title>
+            <link>https://SouthernRaft.github.io/Southern/posts/第一篇</link>
+            <guid isPermaLink="false">https://SouthernRaft.github.io/Southern/posts/第一篇</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>正文内容...</p>
+<pre><code>
+---
+
+### 🎨 个性化定制区
+
+| 目录/文件 | 作用 |
+|---|---|
+| `components/` | 自定义 Vue 组件，可以覆盖主题默认组件 |</code></pre>
+<br/><p>访问 <a href="https://SouthernRaft.github.io/Southern/posts/第一篇" target="_blank">https://SouthernRaft.github.io/Southern/posts/第一篇</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (云游君)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://SouthernRaft.github.io/Southern/posts/hello-valaxy</link>
+            <guid isPermaLink="false">https://SouthernRaft.github.io/Southern/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://SouthernRaft.github.io/Southern/posts/hello-valaxy" target="_blank">https://SouthernRaft.github.io/Southern/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (云游君)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Valaxy Theme Yun",
+    "home_page_url": "https://SouthernRaft.github.io/Southern/",
+    "feed_url": "https://SouthernRaft.github.io/Southern/feed.json",
+    "description": "Valaxy Theme Yun Preview.",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "云游君",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://SouthernRaft.github.io/Southern/posts/第一篇",
+            "content_html": "<p>正文内容...</p>\n<pre><code>\n---\n\n### 🎨 个性化定制区\n\n| 目录/文件 | 作用 |\n|---|---|\n| `components/` | 自定义 Vue 组件，可以覆盖主题默认组件 |</code></pre>\n<br/><p>访问 <a href=\"https://SouthernRaft.github.io/Southern/posts/第一篇\" target=\"_blank\">https://SouthernRaft.github.io/Southern/posts/第一篇</a> 阅读全文。</p>",
+            "url": "https://SouthernRaft.github.io/Southern/posts/第一篇",
+            "title": "我的第一篇文章",
+            "date_modified": "2026-03-26T00:00:00.000Z",
+            "date_published": "2026-03-26T00:00:00.000Z",
+            "author": {
+                "name": "云游君",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://SouthernRaft.github.io/Southern/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://SouthernRaft.github.io/Southern/posts/hello-valaxy\" target=\"_blank\">https://SouthernRaft.github.io/Southern/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://SouthernRaft.github.io/Southern/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "云游君",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
